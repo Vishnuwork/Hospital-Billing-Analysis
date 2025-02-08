@@ -10,7 +10,7 @@ I have transformed the data and performed Analysis and created a KPI dashboard W
 
 Please refer to dashboard below to get a good understanding.
 
-# Use the Toggle to switch from light mode to dark mode.
+Use the Toggle to switch from light mode to dark mode.
 
 # Dashboard in light mode UI
 
